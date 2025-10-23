@@ -1,4 +1,4 @@
-<h1>Hi, I'm Evan! <a href="https://www.linkedin.com/in/evan-dreyer-8a3b76281"></h1>
+<h1>Hi, I'm Evan! <a href="https://www.linkedin.com/in/evan-dreyer-8a3b76281">LinkedIn</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
