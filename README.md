@@ -18,7 +18,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 -->
-<h2> 🤳 Connect with me:</h2>
+<h2> Connect with me:</h2>
  <a href="https://www.linkedin.com/in/evan-dreyer-8a3b76281">LinkedIn
 
 
