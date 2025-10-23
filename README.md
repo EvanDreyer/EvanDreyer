@@ -1,9 +1,10 @@
 <h1>Hi, I'm Evan! </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-<!--
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+- <b>HTML and CSS works</b>
+  - [Experimenting with HTML and CSS](https://github.com/EvanDreyer/HtmlCss-projects)
+    
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
@@ -17,7 +18,7 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
--->
+  - 
 <h2> Connect with me:</h2>
  <a href="https://www.linkedin.com/in/evan-dreyer-8a3b76281">LinkedIn
 
