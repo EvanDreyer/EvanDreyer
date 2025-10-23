@@ -1,4 +1,4 @@
-<h1>Hi, I'm Evan! Programmer, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Evan! Programmer, <a href="https://www.linkedin.com/in/evan-dreyer-8a3b76281"></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
