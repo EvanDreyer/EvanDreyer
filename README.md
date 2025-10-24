@@ -10,7 +10,7 @@
   
 - <b>Java Projects</b>
   - [Experimenting with Java](https://github.com/EvanDreyer/Java-Projects)
-   <!--
+  
 - <b>Python Projects</b>
   - [Experimenting with Python](https://github.com/EvanDreyer/Python)
 <h2> Connect with me:</h2>
