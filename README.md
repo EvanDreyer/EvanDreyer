@@ -3,7 +3,7 @@
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
-<h3> This is where I willl put projects made in school</h3>
+<h3>Below is a collection of projects I made in school that showcase my understanding and abilities </h3>
 
 - <b>HTML and CSS works</b>
   - [Experimenting with HTML and CSS](https://github.com/EvanDreyer/HtmlCss-projects)
