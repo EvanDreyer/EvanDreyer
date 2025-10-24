@@ -1,8 +1,9 @@
 <h1>Hi, I'm Evan! </h1>
 
-<h1> This is where I willl put projects made in school</h1>
+
 
 <h2>👨‍💻 Software Development Projects:</h2>
+<h3> This is where I willl put projects made in school</h3>
 
 - <b>HTML and CSS works</b>
   - [Experimenting with HTML and CSS](https://github.com/EvanDreyer/HtmlCss-projects)
